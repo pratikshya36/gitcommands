@@ -1,0 +1,10 @@
+1.how to create the connection with the database
+2.Are tables being created in "models" folder?
+3.Why arent queries like "Create table" being used?
+5.Insertion of data is being done in "routes" folder?
+6.insertion is done using "id" or "name"?
+7.use of package.json?
+8.use of env.js?
+9.in adminPanelOne.ejs...logout button.. what does action="admin/logout" imply?
+  for addAdmin...which id r we using to post the data?
+  
